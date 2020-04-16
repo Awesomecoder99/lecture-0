@@ -1,0 +1,3 @@
+git clone https://github.com/Awesomecoder99/lecture-0.git  //git cloning 
+cd lecture 0/ //chage directory of that file 
+ls //lists all files in the repository
